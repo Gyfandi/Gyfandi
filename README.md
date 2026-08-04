@@ -29,6 +29,14 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Gyfandi&label=PROFILE+VIEWS&color=0A0A0A&style=for-the-badge&labelColor=FFDE59"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CODE%20HARD%2C%20DEBUG%20HARDER-000000?style=for-the-badge&labelColor=00E5FF&color=000000"/>
+
+<br><br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:FF3EA5,100:FFDE59&height=80&section=footer)
 
 </div>
