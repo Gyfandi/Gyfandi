@@ -17,8 +17,8 @@
 
 ## STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gyfandi&show_icons=true&theme=react&bg_color=000000&title_color=FFDE59&icon_color=FF3EA5&text_color=FFFFFF&border_color=000000&border_radius=0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyfandi&background=000000&border=000000&stroke=000000&ring=FF3EA5&fire=FFDE59&currStreakLabel=FFFFFF&border_radius=0" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Gyfandi&show_icons=true&theme=react&bg_color=000000&title_color=FFDE59&icon_color=FF3EA5&text_color=FFFFFF&border_color=000000&border_radius=0" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gyfandi&layout=compact&bg_color=000000&title_color=FFDE59&text_color=FFFFFF&border_color=000000&border_radius=0" width="48%" />
 
 <br><br>
 
